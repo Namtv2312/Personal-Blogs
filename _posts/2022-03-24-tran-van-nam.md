@@ -14,7 +14,6 @@ tags: [books, test]
 
 # Writeup ([Table of content](#table-of-content))
 
-<details>
 <summary>By events</summary>
 
 <p>
@@ -110,7 +109,6 @@ tags: [books, test]
 | [blindsight](https://github.com/nhtri2003gmail/CTFNote/tree/master/writeup/2022/DefCamp-CTF-2022/blindsight) | pwn | c (64 bit) | `Blind ROP` `Buffer Overflow` |
 
 </p>
-</details>
 
 # Technique ([Table of content](#table-of-content))
 
