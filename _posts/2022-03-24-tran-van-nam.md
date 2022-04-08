@@ -14,7 +14,7 @@ tags: [books, test]
 
 # Writeup ([Table of content](#table-of-content))
 
-<summary>By events</summary>
+
 
 <p>
 
