@@ -16,7 +16,7 @@ tags: [books, test]
 
 
 
-<p>
+
 
 [Wolverine Security Conference/CTF](https://ctftime.org/event/1612)
 | Name | File Type | Bug | Technique | Note |
@@ -108,7 +108,6 @@ tags: [books, test]
 | [cache](https://github.com/nhtri2003gmail/CTFNote/tree/master/writeup/2022/DefCamp-CTF-2022/cache) | pwn | c (64 bit) | `Use After Free` `Double Free` `Tcache Attack` `Overwrite GOT` |
 | [blindsight](https://github.com/nhtri2003gmail/CTFNote/tree/master/writeup/2022/DefCamp-CTF-2022/blindsight) | pwn | c (64 bit) | `Blind ROP` `Buffer Overflow` |
 
-</p>
 
 # Technique ([Table of content](#table-of-content))
 
