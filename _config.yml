@@ -16,7 +16,10 @@ author: Namtv2312
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Blog: "https://archnamtv.edublogs.org"
+    - Blog:
+          - Task CLB: "https://archnamtv.edublogs.org"
+          - Blogs Security: "https://namtv2312.github.io/Hand-on-Skills/"
+          - Blogs Learn: "https://n4m4rch-blogs.vercel.app/"
     - Facebook: "https://www.facebook.com/n4m4rch"
   Author's home: "https://archnamtv.edublogs.org"
 
